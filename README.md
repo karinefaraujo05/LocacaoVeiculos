@@ -1,5 +1,7 @@
-# LocacaoVeiculos
-Projeto de Locação de Veículos para a disciplina de Análise e Projeto de Sistemas
+# Locação Veiculos - KERI 
+
+Projeto de Locação de Veículos para a disciplina de Análise e Projeto de Sistemas - 7º Semestre 
+Engenharia de Computação - FAINOR | Vitória da Conquista
 
 Aplicação desenvolvida utilizando como exemplo a OmniStack 11.0 da Rocketseat
 

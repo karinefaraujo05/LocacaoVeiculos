@@ -20,7 +20,7 @@ Faça o download do projeto no GitHub
 
 Execute npm install nas pastas backend, frontend e mobile, para instalar as dependências.
 
-Execute npm start na pasta back-end para rodar o servidor na porta localhost:3333
+Execute npm start na pasta back-end para rodar o servidor na porta localhost:8333
 
 Execute npm start na pasta front-end para rodar a página web na porta localhost:3000
 

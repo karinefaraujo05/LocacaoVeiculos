@@ -23,7 +23,3 @@ Execute npm install nas pastas backend, frontend e mobile, para instalar as depe
 Execute npm start na pasta back-end para rodar o servidor na porta localhost:8333
 
 Execute npm start na pasta front-end para rodar a página web na porta localhost:3000
-
-Execute npm start na pasta mobile, acesse localhost:19002, leia o QR Code no seu celular utilizando o aplicativo Expo (Download na Playstore) - (Download na App Store) . É possível também usar algum emulador de Android ou iOS.
-
-Interface WEB:
